@@ -1,0 +1,2 @@
+[hooks]
+post = ["../_shared/write-agent-files.rhai"]

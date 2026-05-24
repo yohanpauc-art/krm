@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "canisters": {
+    "proxy": {
+      "type": "custom",
+      "candid": "proxy.did",
+      "wasm": "proxy.wasm"
+    }
+  }
+}
